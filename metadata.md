@@ -1,17 +1,22 @@
 ---
 cloud: experience-cloud
 product: core-services
+solution: Experience Cloud Services
+type: Documentation
 solution-title: Informazioni e supporto
 solution-hub-url: https://helpx.adobe.com/it/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
 getting-started-title: Introduzione
 getting-started-url: https://helpx.adobe.com/it/experience-cloud-core-services/get-started.html
-tutorials-title: Esercitazioni
+tutorials-title: Tutorial
 tutorials-url: https://helpx.adobe.com/it/experience-cloud/tutorials.html
-git-repo: https://github.com/AdobeDocs/device-co-op.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/device-co-op.it-IT
 index: true
 translation-type: tm+mt
-source-git-commit: 8eb9df0580df93c45dba763c2dd5324fd459f7ab
+source-git-commit: 187e2414f1211c94a75329bf111b9934230edd3b
+workflow-type: tm+mt
+source-wordcount: '168'
+ht-degree: 97%
 
 ---
 
