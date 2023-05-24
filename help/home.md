@@ -3,7 +3,6 @@ description: Documentazione di Adobe Experience Cloud Device Co-op
 title: Documentazione di Adobe Experience Cloud Device Co-op
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 exl-id: 6fab66de-127c-4267-9e55-4e3b74881b10
-translation-type: tm+mt
 source-git-commit: bbb8feec60964862a58af354e2678509537e2cc5
 workflow-type: tm+mt
 source-wordcount: '146'
@@ -13,7 +12,7 @@ ht-degree: 45%
 
 # Documentazione di Adobe Experience Cloud Device Co-op{#adobe-experience-cloud-device-co-op-documentation}
 
-La [!DNL Adobe Experience Cloud] [!DNL Device Co-op] è una cooperativa digitale in cui i clienti partecipanti condividono informazioni sul collegamento dei dispositivi. I [!DNL Experience Cloud] [!DNL Device Co-op] elaborano questi dati per creare cluster di dispositivi. Questi cluster rappresentano un gruppo di dispositivi utilizzati da una persona sconosciuta. Il [!DNL Device Co-op] condivide questi cluster tra i suoi membri, aiutandoli a fornire ai loro clienti esperienze cross-device coerenti e di valore.
+Il [!DNL Adobe Experience Cloud] [!DNL Device Co-op] è una cooperativa digitale in cui i clienti partecipanti condividono informazioni sui collegamenti dei dispositivi. Il [!DNL Experience Cloud] [!DNL Device Co-op] elabora questi dati per formare cluster di dispositivi. Questi cluster rappresentano un gruppo di dispositivi utilizzati da una persona sconosciuta. Il [!DNL Device Co-op] condivide questi cluster tra i suoi membri, il che li aiuta a fornire ai loro clienti esperienze multi-dispositivo coerenti e di valore.
 
 <!-- <a id="section_535A849B2BF14221BD78C968CC02732D"></a> -->
 
@@ -29,7 +28,7 @@ La [!DNL Adobe Experience Cloud] [!DNL Device Co-op] è una cooperativa digitale
    <td colname="col2"> <p> <b>Note sulla versione</b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
      <li id="li_09C1CD15823E4AD7856CE40BE848E03F">Per conoscere le nuove funzioni e le correzioni, vedi le <a href="https://docs.adobe.com/content/help/it-IT/release-notes/experience-cloud/current.html" format="https" scope="external">note sulla versione di Experience Cloud</a> più recenti. </li> 
-     <li id="li_EA594E939ED14D7780178DEA8E1AED64">Per gli annunci precedenti, consulta le <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> note sulle versioni precedenti link</a> . </li> 
+     <li id="li_EA594E939ED14D7780178DEA8E1AED64">Consulta la <a href="https://docs.adobe.com/content/help/it-IT/release-notes/experience-cloud/current.html" format="https" scope="external"> collegamenti alle note sulle versioni precedenti</a> per annunci precedenti. </li> 
     </ul> <p> <b>Risorse di Experience Cloud</b> </p> 
     <ul id="ul_E30EC96BDC624B5591F0470D430B7F41"> 
      <li id="li_F3A5CCFAE0F247CEB41A03CA8E03106B"> <a href="http://www.adobe.com/it/marketing-cloud.html" scope="external" format="http"> Adobe Experience Cloud</a> </li> 

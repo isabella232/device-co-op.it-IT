@@ -12,34 +12,34 @@ ht-degree: 1%
 
 # Domande frequenti{#faq}
 
-Descrizioni e risposte alle domande comuni su Identity Services Cooperative e Identity Graph.
+Descrizioni e risposte alle domande comuni sulla Identity Services Cooperative e sul grafo delle identità.
 
-**Qual è il  [!DNL Device Co-op]?**
+**Cos&#39;è [!DNL Device Co-op]?**
 
-Device Co-op è una cooperativa digitale che consente ai clienti Adobe Experience Cloud partecipanti di collaborare per identificare meglio i consumatori tra i dispositivi.
+Device Co-op è una cooperativa digitale che consente ai clienti Adobe Experience Cloud partecipanti di collaborare per identificare meglio i propri consumatori nei diversi dispositivi.
 
 **Quali tecnologie vengono utilizzate in Device Co-op?**
 
-Device Co-op è costituito da due tecnologie:
+Il Device Co-op è costituito da due tecnologie:
 
-* **Servizio Experience Cloud ID:** questo servizio di base di Adobe Experience Cloud fornisce un ID comune per identificare in modo coerente i consumatori tra soluzioni, canali, esperienze e dispositivi.
-* **Adobe Experience Cloud Device Co-op:** questa tecnologia collega diversi dispositivi utilizzati da un consumatore o una famiglia.
+* **Servizio ID Experience Cloud:** Questo servizio di base di Adobe Experience Cloud fornisce un ID comune per identificare i consumatori in modo coerente tra soluzioni, canali, esperienze e dispositivi.
+* **Adobe Experience Cloud Device Co-op:** Questa tecnologia collega diversi dispositivi utilizzati da un consumatore o da una famiglia.
 
-**Come  [!DNL Device Co-op] funziona?**
+**In che modo [!DNL Device Co-op] lavoro?**
 
-Man mano che i marchi inseriscono il loro pezzo del puzzle cross-device attraverso accessi anonimi e visite al sito, Adobe elabora questi dati per creare cluster di dispositivi che rappresentano un gruppo di dispositivi utilizzati da una persona sconosciuta. Questi cluster di dispositivi vengono dati ai membri di Device Co-op e utilizzati per fornire ai loro consumatori un&#39;esperienza cross-device migliore e più coerente.
+Man mano che i brand inseriscono nel loro pezzo del puzzle cross-device attraverso accessi anonimi e visite al sito, Adobe elabora questi dati per formare cluster di dispositivi che rappresentano un gruppo di dispositivi utilizzati da una persona sconosciuta. Questi cluster di dispositivi vengono assegnati ai membri di Device Co-op e vengono utilizzati per fornire ai consumatori un’esperienza migliore e più coerente tra i diversi dispositivi.
 
-**Come si  [!DNL Device Co-op] collegano i dispositivi?**
+**In che modo [!DNL Device Co-op] collegare dispositivi?**
 
 Consulta [Collegamenti deterministici e probabilistici](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931).
 
-**Quali dati forniscono i partecipanti  [!DNL Adobe]?**
+**Quali dati forniscono i partecipanti [!DNL Adobe]?**
 
-Consulta [Strumento di rinuncia del consumatore, Privacy e Device Graph](privacy.md#concept-fa1346e6b95a484eaeafc9bebe3cd6be).
+Consulta [Strumento di rinuncia del consumatore, privacy e grafico dei dispositivi](privacy.md#concept-fa1346e6b95a484eaeafc9bebe3cd6be).
 
-**Quali dati vengono condivisi tra  [!DNL Device Co-op] i membri?**
+**Quali dati vengono condivisi tra [!DNL Device Co-op] membri?**
 
-Consulta [Condivisione collegamenti in Device Graph](processes/link-sharing.md#concept-7168053105a94649a3f092d375d79eaf).
+Consulta [Condivisione di collegamenti nel grafico dei dispositivi](processes/link-sharing.md#concept-7168053105a94649a3f092d375d79eaf).
 
 <!--
 Removed at Asa's request.
@@ -47,22 +47,22 @@ Removed at Asa's request.
 <p>Adobe can see which devices are most likely being used by the same person, using probabilistic and deterministic device graph algorithms. This match between a group of devices and a person is really two numbers that are linked to each other. One number represents a group of devices believed to belong to the same person while the other number represents a person. Adobe makes this linked device information available to consumers as well, so they can correct misinformation and/or opt-out one or all devices from the Device Co-op. </p>
 -->
 
-**Un  [!DNL Device Co-op] membro può visualizzare i collegamenti a dispositivi mai visti prima?**
+**Can a [!DNL Device Co-op] i membri possono visualizzare collegamenti a dispositivi mai visti prima?**
 
-No. I membri di Device Co-op possono ottenere dati solo in base ai dispositivi che hanno visitato una delle proprietà web del loro marchio. Vedere [Dispositivi noti](processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) e [Dispositivi sconosciuti](processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).
+No. I membri di Device Co-op possono ottenere dati solo in base ai dispositivi che hanno visitato una delle proprietà web del proprio marchio. Consulta [Dispositivi noti](processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) e [Dispositivi sconosciuti](processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).
 
-**Dovrò condividere informazioni di marketing della mia azienda?**
+**Dovrò condividere alcune delle informazioni di marketing della mia azienda?**
 
-No. I marchi forniscono solo dati dei dispositivi anonimi ad Adobe.
+No. I marchi forniscono solo dati anonimi sul dispositivo agli Adobi.
 
-**Utilizza  [!DNL Adobe] informazioni personali identificabili (PII) in  [!DNL Device Co-op]?**
+**Does [!DNL Adobe] utilizzare informazioni personali (PII, personally identifiable information) [!DNL Device Co-op]?**
 
-No. Tutte le informazioni personali identificabili vengono crittografate prima di essere inserite in qualsiasi sistema di Adobe, in modo che le informazioni del cliente non vengano mai trasferite ai sistemi di Adobe.
+No. Tutte le informazioni personali vengono sottoposte a hashing prima di essere inserite in qualsiasi Adobe, pertanto le informazioni del cliente non vengono mai trasferite ai sistemi Adobi.
 
-**I marchi più piccoli che contribuiscono meno dati dei dispositivi a Device Co-op ricevono più valore di quello che inseriscono, rispetto alle loro controparti più grandi?**
+**I marchi più piccoli che forniscono meno dati sui dispositivi al Device Co-op ottengono più valore rispetto a quello che inseriscono, rispetto alle controparti più grandi?**
 
-No. Tutti i membri della Cooperativa ricevono valore rispetto a quello che hanno messo. Ad esempio, se un marchio fornisce 10.000 dispositivi, potrà ricevere informazioni aggiuntive sui dispositivi collegati associate a tali 10.000. Guardando al quadro generale, questo contributo può sembrare minimo; ma man mano che si uniscono sempre più marchi di tutte le dimensioni, il contributo aggregato è significativo, e fornirà il collegamento mancante per molti dispositivi che molti altri marchi, forse più grandi, stanno cercando. Vedere [Equità e il dispositivo noto](processes/known-device.md#section-0543188729d845d6b95db70b8b25e9f8).
+No. Tutti i membri della Cooperativa ottengono un valore relativo a ciò che hanno inserito. Ad esempio, se un brand contribuisce con 10.000 dispositivi, potrà ricevere informazioni aggiuntive sui dispositivi collegati associate a tali 10.000. Guardando al quadro generale, questo contributo può sembrare minimo; ma man mano che sempre più marchi di tutte le dimensioni si uniscono, il contributo aggregato è significativo e fornirà il collegamento mancante per molti dispositivi che molti altri marchi, forse più grandi, stanno cercando. Consulta [Equità e dispositivo noto](processes/known-device.md#section-0543188729d845d6b95db70b8b25e9f8).
 
-**Come  [!DNL Adobe] gestire gli indirizzi IP se alcuni paesi considerano un indirizzo IP come informazioni personali?**
+**In che modo [!DNL Adobe] gestire gli indirizzi IP se alcuni paesi considerano un indirizzo IP come informazioni personali?**
 
-Device Co-op viene rilasciato per la prima volta negli Stati Uniti e in Canada, dove l’indirizzo IP non è considerato un’informazione personale. Quando la Cooperativa viene rilasciata in paesi in cui l’indirizzo IP è considerato un’informazione personale, l’indirizzo IP non viene utilizzato.
+Il Device Co-op viene rilasciato per la prima volta negli Stati Uniti e in Canada, dove l’indirizzo IP non è considerato un dato personale. Quando la cooperativa viene rilasciata in paesi in cui l’indirizzo IP è considerato informazioni personali, l’indirizzo IP non viene utilizzato.

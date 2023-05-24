@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # Device Co-op archiviato
 
-Vedi discontinuo.it
+Vedere discontinuous.it
